@@ -1,5 +1,5 @@
 # dont-use-rust-for-front-end
 
-## mainly copieds from
+## mainly copied from
 
 https://github.com/letsgetrusty/rsty-stack-example
